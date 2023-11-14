@@ -1,11 +1,10 @@
 {
-  "name": "brinquemais",
+  "name": "projetofuturef",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cadff.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./brinquemais.js localhost:3000"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
